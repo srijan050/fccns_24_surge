@@ -1,0 +1,77 @@
+[Running] python -u "c:\Users\gadge\Documents\fccns_surge\new_complex_o1.py"
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch [1/10], Step [2000/12500], Loss: 1.7360
+Epoch [1/10], Step [4000/12500], Loss: 1.2042
+Epoch [1/10], Step [6000/12500], Loss: 1.1404
+Epoch [1/10], Step [8000/12500], Loss: 1.4777
+Epoch [1/10], Step [10000/12500], Loss: 1.8991
+Epoch [1/10], Step [12000/12500], Loss: 1.2930
+Epoch [2/10], Step [2000/12500], Loss: 1.0722
+Epoch [2/10], Step [4000/12500], Loss: 0.9168
+Epoch [2/10], Step [6000/12500], Loss: 1.2580
+Epoch [2/10], Step [8000/12500], Loss: 1.3558
+Epoch [2/10], Step [10000/12500], Loss: 1.0478
+Epoch [2/10], Step [12000/12500], Loss: 1.4980
+Epoch [3/10], Step [2000/12500], Loss: 1.3290
+Epoch [3/10], Step [4000/12500], Loss: 0.0954
+Epoch [3/10], Step [6000/12500], Loss: 0.6045
+Epoch [3/10], Step [8000/12500], Loss: 1.4870
+Epoch [3/10], Step [10000/12500], Loss: 0.7977
+Epoch [3/10], Step [12000/12500], Loss: 0.3129
+Epoch [4/10], Step [2000/12500], Loss: 0.1867
+Epoch [4/10], Step [4000/12500], Loss: 1.0523
+Epoch [4/10], Step [6000/12500], Loss: 1.2819
+Epoch [4/10], Step [8000/12500], Loss: 2.3967
+Epoch [4/10], Step [10000/12500], Loss: 0.3008
+Epoch [4/10], Step [12000/12500], Loss: 0.7877
+Epoch [5/10], Step [2000/12500], Loss: 0.7950
+Epoch [5/10], Step [4000/12500], Loss: 0.3836
+Epoch [5/10], Step [6000/12500], Loss: 0.2767
+Epoch [5/10], Step [8000/12500], Loss: 0.6897
+Epoch [5/10], Step [10000/12500], Loss: 0.3747
+Epoch [5/10], Step [12000/12500], Loss: 0.3829
+Epoch [6/10], Step [2000/12500], Loss: 0.1747
+Epoch [6/10], Step [4000/12500], Loss: 0.7786
+Epoch [6/10], Step [6000/12500], Loss: 0.7621
+Epoch [6/10], Step [8000/12500], Loss: 0.5164
+Epoch [6/10], Step [10000/12500], Loss: 0.6027
+Epoch [6/10], Step [12000/12500], Loss: 0.1069
+Epoch [7/10], Step [2000/12500], Loss: 0.8551
+Epoch [7/10], Step [4000/12500], Loss: 0.3698
+Epoch [7/10], Step [6000/12500], Loss: 0.5064
+Epoch [7/10], Step [8000/12500], Loss: 0.7685
+Epoch [7/10], Step [10000/12500], Loss: 2.1363
+Epoch [7/10], Step [12000/12500], Loss: 0.2220
+Epoch [8/10], Step [2000/12500], Loss: 0.3066
+Epoch [8/10], Step [4000/12500], Loss: 0.9501
+Epoch [8/10], Step [6000/12500], Loss: 0.6215
+Epoch [8/10], Step [8000/12500], Loss: 3.1060
+Epoch [8/10], Step [10000/12500], Loss: 1.2153
+Epoch [8/10], Step [12000/12500], Loss: 0.0880
+Epoch [9/10], Step [2000/12500], Loss: 0.5586
+Epoch [9/10], Step [4000/12500], Loss: 0.5005
+Epoch [9/10], Step [6000/12500], Loss: 1.5749
+Epoch [9/10], Step [8000/12500], Loss: 0.0859
+Epoch [9/10], Step [10000/12500], Loss: 0.4708
+Epoch [9/10], Step [12000/12500], Loss: 0.1979
+Epoch [10/10], Step [2000/12500], Loss: 0.6488
+Epoch [10/10], Step [4000/12500], Loss: 1.9651
+Epoch [10/10], Step [6000/12500], Loss: 0.6996
+Epoch [10/10], Step [8000/12500], Loss: 0.0640
+Epoch [10/10], Step [10000/12500], Loss: 0.1081
+Epoch [10/10], Step [12000/12500], Loss: 0.2130
+Finished Training
+Accuracy of the network: 71.11 %
+Accuracy of plane: 77.20 %
+Accuracy of car: 81.90 %
+Accuracy of bird: 63.50 %
+Accuracy of cat: 49.90 %
+Accuracy of deer: 61.20 %
+Accuracy of dog: 64.50 %
+Accuracy of frog: 77.40 %
+Accuracy of horse: 86.00 %
+Accuracy of ship: 71.60 %
+Accuracy of truck: 77.90 %
+
+[Done] exited with code=0 in 5441.057 seconds

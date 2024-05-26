@@ -1,0 +1,104 @@
+[Running] python -u "c:\Users\gadge\Documents\fccns_surge\new_complex.py"
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch [1/5], Step [2000/12500], Loss: 0.9777
+Epoch [1/5], Step [4000/12500], Loss: 2.0865
+Epoch [1/5], Step [6000/12500], Loss: 1.1629
+Epoch [1/5], Step [8000/12500], Loss: 2.0208
+Epoch [1/5], Step [10000/12500], Loss: 0.7171
+Epoch [1/5], Step [12000/12500], Loss: 1.5591
+Epoch [2/5], Step [2000/12500], Loss: 0.9114
+Epoch [2/5], Step [4000/12500], Loss: 1.1605
+Epoch [2/5], Step [6000/12500], Loss: 0.9553
+Epoch [2/5], Step [8000/12500], Loss: 0.6215
+Epoch [2/5], Step [10000/12500], Loss: 1.0834
+Epoch [2/5], Step [12000/12500], Loss: 0.9196
+Epoch [3/5], Step [2000/12500], Loss: 1.0351
+Epoch [3/5], Step [4000/12500], Loss: 0.3525
+Epoch [3/5], Step [6000/12500], Loss: 0.9665
+Epoch [3/5], Step [8000/12500], Loss: 1.0230
+Epoch [3/5], Step [10000/12500], Loss: 0.7966
+Epoch [3/5], Step [12000/12500], Loss: 0.8675
+Epoch [4/5], Step [2000/12500], Loss: 0.6397
+Epoch [4/5], Step [4000/12500], Loss: 2.6814
+Epoch [4/5], Step [6000/12500], Loss: 1.0004
+Epoch [4/5], Step [8000/12500], Loss: 1.0223
+Epoch [4/5], Step [10000/12500], Loss: 0.3733
+Epoch [4/5], Step [12000/12500], Loss: 1.5633
+Epoch [5/5], Step [2000/12500], Loss: 0.5876
+Epoch [5/5], Step [4000/12500], Loss: 0.3857
+Epoch [5/5], Step [6000/12500], Loss: 0.2811
+Epoch [5/5], Step [8000/12500], Loss: 0.3268
+Epoch [5/5], Step [10000/12500], Loss: 0.4314
+Epoch [5/5], Step [12000/12500], Loss: 0.6237
+Finished Training
+Accuracy of the network: 68.26 %
+Accuracy of plane: 67.10 %
+Accuracy of car: 72.60 %
+Accuracy of bird: 60.00 %
+Accuracy of cat: 52.00 %
+Accuracy of deer: 41.10 %
+Accuracy of dog: 66.70 %
+Accuracy of frog: 72.30 %
+Accuracy of horse: 82.20 %
+Accuracy of ship: 82.60 %
+Accuracy of truck: 86.00 %
+
+[Done] exited with code=0 in 2155.835 
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to ./data/cifar-10-python.tar.gz
+100%|██████████| 170498071/170498071 [00:02<00:00, 72972665.81it/s]
+Extracting ./data/cifar-10-python.tar.gz to ./data
+Files already downloaded and verified
+Epoch [1/5], Step [2000/12500], Loss: 1.0550
+Epoch [1/5], Step [4000/12500], Loss: 1.3266
+Epoch [1/5], Step [6000/12500], Loss: 1.5433
+Epoch [1/5], Step [8000/12500], Loss: 0.7558
+Epoch [1/5], Step [10000/12500], Loss: 1.1647
+Epoch [1/5], Step [12000/12500], Loss: 1.6440
+Epoch [2/5], Step [2000/12500], Loss: 0.9562
+Epoch [2/5], Step [4000/12500], Loss: 1.7364
+Epoch [2/5], Step [6000/12500], Loss: 0.6095
+Epoch [2/5], Step [8000/12500], Loss: 0.4760
+Epoch [2/5], Step [10000/12500], Loss: 1.8231
+Epoch [2/5], Step [12000/12500], Loss: 0.4745
+Epoch [3/5], Step [2000/12500], Loss: 0.2603
+Epoch [3/5], Step [4000/12500], Loss: 0.3042
+Epoch [3/5], Step [6000/12500], Loss: 1.3234
+Epoch [3/5], Step [8000/12500], Loss: 1.3368
+Epoch [3/5], Step [10000/12500], Loss: 0.7040
+Epoch [3/5], Step [12000/12500], Loss: 0.2758
+Epoch [4/5], Step [2000/12500], Loss: 1.3559
+Epoch [4/5], Step [4000/12500], Loss: 1.2639
+Epoch [4/5], Step [6000/12500], Loss: 0.6788
+Epoch [4/5], Step [8000/12500], Loss: 0.1817
+Epoch [4/5], Step [10000/12500], Loss: 0.4378
+Epoch [4/5], Step [12000/12500], Loss: 0.4020
+Epoch [5/5], Step [2000/12500], Loss: 1.9200
+Epoch [5/5], Step [4000/12500], Loss: 0.2532
+Epoch [5/5], Step [6000/12500], Loss: 1.4060
+Epoch [5/5], Step [8000/12500], Loss: 0.3053
+Epoch [5/5], Step [10000/12500], Loss: 0.6600
+Epoch [5/5], Step [12000/12500], Loss: 0.6473
+Finished Training
+Accuracy of the network: 70.86 %
+Accuracy of plane: 75.90 %
+Accuracy of car: 75.90 %
+Accuracy of bird: 51.30 %
+Accuracy of cat: 46.10 %
+Accuracy of deer: 70.40 %
+Accuracy of dog: 58.50 %
+Accuracy of frog: 88.70 %
+Accuracy of horse: 75.50 %
+Accuracy of ship: 84.50 %
+Accuracy of truck: 81.80 %

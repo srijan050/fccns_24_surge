@@ -1,0 +1,57 @@
+[Running] python -u "c:\Users\gadge\Documents\fccns_surge\init_tr_normal.py"
+Files already downloaded and verified
+Files already downloaded and verified
+C:\Users\gadge\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\nn\modules\module.py:1133: UserWarning: Complex modules are a new feature under active development whose design may change, and some modules might not work as expected when using complex tensors as parameters or buffers. Please file an issue at https://github.com/pytorch/pytorch/issues/new?template=bug-report.yml if a complex module does not work as expected.
+  warnings.warn(
+c:\Users\gadge\Documents\fccns_surge\init_tr_normal.py:114: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  images = torch.tensor(images, dtype=torch.float32)
+c:\Users\gadge\Documents\fccns_surge\init_tr_normal.py:116: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  imag = torch.tensor(imag, dtype=torch.float32)
+Epoch [1/5], Step [2000/12500], Loss: 2.2910
+Epoch [1/5], Step [4000/12500], Loss: 2.2823
+Epoch [1/5], Step [6000/12500], Loss: 2.3133
+Epoch [1/5], Step [8000/12500], Loss: 2.2902
+Epoch [1/5], Step [10000/12500], Loss: 2.2848
+Epoch [1/5], Step [12000/12500], Loss: 2.3100
+Epoch [2/5], Step [2000/12500], Loss: 2.2193
+Epoch [2/5], Step [4000/12500], Loss: 1.7335
+Epoch [2/5], Step [6000/12500], Loss: 2.6703
+Epoch [2/5], Step [8000/12500], Loss: 1.4000
+Epoch [2/5], Step [10000/12500], Loss: 1.3806
+Epoch [2/5], Step [12000/12500], Loss: 1.3831
+Epoch [3/5], Step [2000/12500], Loss: 1.9580
+Epoch [3/5], Step [4000/12500], Loss: 1.1257
+Epoch [3/5], Step [6000/12500], Loss: 1.6377
+Epoch [3/5], Step [8000/12500], Loss: 1.8563
+Epoch [3/5], Step [10000/12500], Loss: 1.5565
+Epoch [3/5], Step [12000/12500], Loss: 1.1431
+Epoch [4/5], Step [2000/12500], Loss: 2.0997
+Epoch [4/5], Step [4000/12500], Loss: 1.6134
+Epoch [4/5], Step [6000/12500], Loss: 1.1090
+Epoch [4/5], Step [8000/12500], Loss: 1.1591
+Epoch [4/5], Step [10000/12500], Loss: 1.1623
+Epoch [4/5], Step [12000/12500], Loss: 1.1163
+Epoch [5/5], Step [2000/12500], Loss: 1.4644
+Epoch [5/5], Step [4000/12500], Loss: 1.7892
+Epoch [5/5], Step [6000/12500], Loss: 3.2456
+Epoch [5/5], Step [8000/12500], Loss: 1.1781
+Epoch [5/5], Step [10000/12500], Loss: 2.3967
+Epoch [5/5], Step [12000/12500], Loss: 0.9935
+Finished Training
+c:\Users\gadge\Documents\fccns_surge\init_tr_normal.py:142: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  images = torch.tensor(images, dtype=torch.float32)
+c:\Users\gadge\Documents\fccns_surge\init_tr_normal.py:144: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  imag = torch.tensor(imag, dtype=torch.float32)
+Accuracy of the network: 49.74 %
+Accuracy of plane: 59.9 %
+Accuracy of car: 67.0 %
+Accuracy of bird: 21.6 %
+Accuracy of cat: 26.3 %
+Accuracy of deer: 33.9 %
+Accuracy of dog: 38.1 %
+Accuracy of frog: 79.6 %
+Accuracy of horse: 58.0 %
+Accuracy of ship: 59.5 %
+Accuracy of truck: 53.5 %
+
+[Done] exited with code=0 in 352.854 seconds
